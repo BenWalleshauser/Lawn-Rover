@@ -1,5 +1,3 @@
-// My version, some small tweaks
-
 #include <AFMotor.h>
 #include <ezButton.h>
 
